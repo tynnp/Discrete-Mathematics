@@ -14,8 +14,8 @@ Frontend viết bằng React + Vite, Backend viết bằng Node.js + Express + M
 
 1. Clone dự án
    ```bash
-   git clone https://github.com/tynnp/Discrete-Mathematics.git
-   cd Discrete-Mathematics
+   git clone https://github.com/tynnp/discrete-math-mcq.git
+   cd discrete-math-mcq
    ```
 
 2. Cài đặt dependencies
