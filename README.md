@@ -55,22 +55,6 @@ npm run dev
 ```
 Frontend chạy mặc định tại: http://localhost:5173
 
-## Cấu trúc dự án
-
-```
-Discrete-Mathematics/
-│── server.js              # Backend API (Express + MongoDB)
-│── src/
-│   ├── App.tsx            # Giao diện chính
-│   ├── services/
-│   │   └── GeminiApiService.ts  # Gọi Gemini API để tạo câu hỏi
-│   ├── components/        # Các component React (UI)
-│   └── types/             # Kiểu dữ liệu dùng chung
-│── package.json
-│── vite.config.ts
-│── tsconfig.json
-```
-
 ## Các API backend (server.js)
 
 - GET /api/questions → Lấy toàn bộ câu hỏi trong MongoDB  
