@@ -1,4 +1,4 @@
-# Discrete Mathematics – AI-based MCQ Generator
+# Discrete Math MCQ Generator
 
 Ứng dụng tạo câu hỏi trắc nghiệm môn Toán rời rạc bằng Google Gemini API và lưu trữ câu hỏi trong MongoDB.  
 Frontend viết bằng React + Vite, Backend viết bằng Node.js + Express + MongoDB.
