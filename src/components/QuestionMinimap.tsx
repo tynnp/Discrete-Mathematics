@@ -72,7 +72,7 @@ export const QuestionMinimap: React.FC<QuestionMinimapProps> = ({
   const progressPercentage = (answeredCount / totalQuestions) * 100;
 
   return (
-    <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-4 sticky top-6 min-w-[300px] max-h-[370px] overflow-y-auto">
+    <div className="bg-white rounded-xl shadow-lg border border-gray-200 p-4 sticky top-6 min-w-[300px] max-h-[410px] overflow-y-auto">
       {/* Header */}
       <div className="flex items-center gap-2 mb-4">
         <div className="w-2.5 h-2.5 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-full"></div>
